@@ -1,0 +1,9 @@
+# Compiled python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# Experiments
+test.py
+main.py
